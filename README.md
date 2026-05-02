@@ -47,4 +47,4 @@ O projeto foi refatorado para abandonar o padrão "Smart UI" (código acoplado n
 
 5.Nota: O banco de dados banco.sqlite será criado automaticamente na pasta bin/Debug ao executar o programa pela primeira vez.
 
-![Screenshot do Projeto](images/screenshot.gif)
+![Screenshot do Projeto](images/screenshot.png)
